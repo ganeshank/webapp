@@ -1,0 +1,32 @@
+body {
+	background: #ED4264;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFEDBC, #ED4264);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFEDBC, #ED4264); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	
+}
+
+h2 {
+	font-family: changa one;
+	color: #fff;
+
+}
+
+.container {
+	background-color: #666699;
+	padding: 20px;
+	margin-top: 80px;
+	box-shadow: 10px 10px 20px grey;
+}
+
+.form-group label {
+	color: white;
+}
+
+form a {
+	color: #cccccc;
+}
+
+form a:hover {
+	color: #fff;
+}
